@@ -1,6 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
-</style>
+
 head {
 text-align: center
 }
@@ -17,6 +15,7 @@ h1 {
 	color: #497335;
 	font-size: 5em;
   border: 5px solid #F7037A;
+	font-family: 'Chango', cursive;
 
 
 }
