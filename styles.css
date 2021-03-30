@@ -1,6 +1,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 </style>
+head {
+text-align: center
+}
 body {
 	background-color: #F0CEF5;
 	margin: 1em auto;
