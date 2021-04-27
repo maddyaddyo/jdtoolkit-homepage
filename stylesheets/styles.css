@@ -21,6 +21,7 @@ h1 {
 }
 
 p, ul {
+
 	font-family: "Times New Roman", serif;
 	color: #234146;
 	max-width: 30em;
@@ -29,7 +30,7 @@ p, ul {
 	margin: 1em auto 1em auto;
 	font-size: 3em;
 	line-height: 1.3;
-}
+
 
 img.logo {
 	width: 100%;
